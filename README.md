@@ -6,4 +6,4 @@ Steps for running
  - Install the executable file PhantomJS for your appropriate operating system
  - Run the python program in the correct path
  
- Make sure you read the documentation
+ Make sure you read the comments in the file
